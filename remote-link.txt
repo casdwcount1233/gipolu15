@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://charge-beings-mechanical-biology.trycloudflare.com/vnc.html
+URL       : https://gentleman-function-inline-zen.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-04 07:46:51
+Created   : 2026-08-04 12:09:37
 =======================================================
