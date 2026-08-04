@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://brown-ethnic-cached-focusing.trycloudflare.com/vnc.html
+URL       : https://society-launched-wild-infectious.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-04 17:00:40
+Created   : 2026-08-04 21:23:53
 =======================================================
