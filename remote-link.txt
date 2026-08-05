@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://society-launched-wild-infectious.trycloudflare.com/vnc.html
+URL       : https://compression-remedy-editorials-fire.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-04 21:23:53
+Created   : 2026-08-05 03:21:36
 =======================================================
